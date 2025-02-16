@@ -10,7 +10,7 @@ I'm Arthur, a **software engineer** with a strong focus on **mobile and web deve
 
 ## 📌 Projects
 
-### 🎟️ [Movie Ticket Booking App](https://github.com/ArthurLopesMagalhaes)
+### 🎟️ [Movie Ticket Booking App](https://github.com/ArthurLopesMagalhaes/CinemaApp)
 
 - A **React Native** mobile app for purchasing movie tickets.
 - Users can select theirs seats, mmovies and sessions.
