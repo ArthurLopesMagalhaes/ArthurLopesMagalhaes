@@ -6,7 +6,7 @@ I'm Arthur, a **software engineer** with a strong focus on **mobile and web deve
 
 - 🎓 Background in **Mechanical Engineering**, integrating software solutions into engineering projects.
 - 📱 Experienced in **React Native**, having built apps from development to Play Store publication.
-- 📊 Work with **data visualization**, creating graphs and dashboards for engineering applications.
+- 📊 Work with **Full-stack development**, building scalable and efficient applications with **React** and **Node.js**.
 
 ## 📌 Projects
 
