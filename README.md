@@ -17,6 +17,14 @@ I'm Arthur, a **software engineer** with a strong focus on **mobile and web deve
 - Admins can scan **QR codes** to validate tickets at the cinema entrance.
 - Includes a **dashboard** for managing movies, sessions, and seating (WIP).
 
+### 🤖 [Robotic Arm Bluetooth Controller](https://github.com/ArthurLopesMagalhaes/RN-RobotArm-Bluetooth-Controller)
+
+- A **React Native** app to control a **3D-printed robotic arm** via **Bluetooth (HC-05)** and **Arduino UNO**.
+- The app sends servo angle commands to control the robotic arm’s joints in real time.
+- Created for a **Robotics course project**, simulating an **automated welding process**.
+- Features Bluetooth pairing, real-time slider control, and angle feedback.
+- Hardware setup includes servos, HC-05, potentiometers (alternative control), and a 3D-printed arm.
+
 ### ⚙️ [Engineering Data Visualization](https://github.com/ArthurLopesMagalhaes/vibration-mec)
 
 - Created interactive **graphs for machining parameters**.
