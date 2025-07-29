@@ -50,5 +50,3 @@ I'm Arthur, a **software engineer** with a strong focus on **mobile and web deve
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/artthur-lopes/)
 - 📧 [Email](mailto:arthurlopescontact@gmail.com)
-
-Thanks for stopping by! Feel free to check out my projects and contributions. 🚀
