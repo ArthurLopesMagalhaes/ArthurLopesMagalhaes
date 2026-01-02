@@ -43,7 +43,7 @@ I'm Arthur, a **software engineer** with a strong focus on **mobile and web deve
 
 - **Languages:** TypeScript, JavaScript, Python
 - **Frameworks & Libraries:** React Native, React.js, Next.js, Stencil, Matplotlib
-- **Backend & Databases:** Node.js, Firebase, Supabase, PostgreSQL
+- **Backend & Databases:** Node.js, Firebase, Supabase, PostgreSQL, DynamoDB, MongoDB
 - **Engineering Tools:** EES (Engineering Equation Solver), SolidWorks, FluidSIM
 
 ## 📫 Get in Touch
